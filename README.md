@@ -122,7 +122,7 @@ flowchart LR
 ## 11. Arquivos
 
 - `calculos.py`: cálculos e geração do `dados.json` (`python calculos.py`).
-- `dashboard.html`: dashboard com deslizadores de horas, tarifa e fator de emissão. Para ver, baixe o arquivo e abra no navegador (ou acesse: **COLOQUE AQUI O LINK DO GITHUB PAGES, SE ATIVAR**).
+- `dashboard.html`: dashboard com deslizadores de horas, tarifa e fator de emissão. Para ver, baixe o arquivo e abra no navegador.
 - `dados.json`: resultados dos cenários.
 
 ## 12. Referências
